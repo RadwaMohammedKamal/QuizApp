@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+<!--    <string-array name="items">-->
+<!--        <item>please select</item>-->
+<!--        <item>cairo</item>-->
+<!--        <item>ws</item>-->
+<!--        <item>paris</item>-->
+<!--        <item>london</item>-->
+<!--    </string-array>-->
+</resources>
